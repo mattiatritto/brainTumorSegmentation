@@ -1,3 +1,5 @@
+# Brain Tumor Segmentation using 3D MRIs
+
 Quick guide to use the scripts provided:
 
 1-main.mlx is a MATLAB notebook file meant for understanding what is the workflow adopted to perform the segmentation;
